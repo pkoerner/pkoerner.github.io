@@ -20,4 +20,6 @@ jobs:
     - name: Pack files
       run: tar -cvf github-pages -C public/ .
     - uses: actions/upload-artifact@v4
+      name: github-pages
+      path: github-pages
     - uses: actions/deploy-pages@v4
