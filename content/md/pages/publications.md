@@ -3,7 +3,11 @@
  :page-index 1}
 
 ### 2024
+- [A verified low-level implementation and visualization of the adaptive exterior light and speed control system](/posts-output/2024-05-13-STTT-els-scs-case-study) - Sebastian Krings, Philipp Körner, Jannik Dunkelau, Kristin Rutenkolk
 - [Meta-Programming Event-B - Advancing Tool Support and Language Extensions](/posts-output/2024-04-19-ABZ24-lisb-eventb) - Philipp Körner, Florian Mager
+
+### 2023
+- [On Executing State-Based Specifications and Partial Order Reduction for High-Level Formalisms](/posts-output/2023-01-13-HHU-dissertation) - Philipp Körner
 
 ### 2022
 
@@ -16,13 +20,16 @@
 - [Increasing Student Self-Reliance and Engagement in Model-Checking Courses](/posts-output/2021-10-22-FMTea21-model-checking-course) - Philipp Körner, Sebastian Krings
 - [Effectiveness of Annotation-Based Static Type Inference](/posts-output/2020-12-01-WFLP20-plstatic) - Isabel Wingen, Philipp Körner
 - [Prototyping Games Using Formal Methods](/posts-output/2020-01-07-FMFun19-prototyping-games) - Sebastian Krings, Philipp Körner
+- [Rooting Formal Methods within Higher Education Curricula for Computer Science and Software Engineering - A White Paper](/posts-output/2021-03-11-FMFun-fm-whitepaper) - Antonio Cerone, Markus Roggenbach, James Davenport, Casey Denner, Marie Farrell, Magne Haveraaen, Faron Moller, Philipp Körner, Sebastian Krings, Peter Csaba Ölveczky, Bernd-Holger Schlingloff, Nikolay Shilov, Rustam Zhumagambetov
 
 ### 2020
 - [On the Performance of Bytecode Interpreters in Prolog](/posts-output/2020-12-01-WFLP20-bytecode-interpreters-prolog) - Philipp Körner, David Schneider, Michael Leuschel
 - [The First Twenty-Five Years of Industrial Use of the B-Method](/posts-output/2020-08-12-FMICS-25-years-B) - Michael Butler, Philipp Körner, Sebastian Krings, Thierry Lecomte, Michael Leuschel, Luis-Fernando Mejia, Laurent Voisin 
 - [Integrating formal specifications into applications: the ProB Java API](/posts-output/2020-08-13-FMSD-prob-java-api) - Philipp Körner, Jens Bendisposto, Jannik Dunkelau, Sebastian Krings, Michael Leuschel
+- [A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System](/posts-output/2020-03-26-ABZ20-els-scs-case-study) - Sebastian Krings, Philipp Körner, Jannik Dunkelau, Kristin Rutenkolk
 - [Towards a Shared Specification Repository](/posts-output/2020-03-13-ABZ20-b-repo) - Philipp Körner, Michael Leuschel, Jannik Dunkelau
 - [Validation and real-life demonstration of {ETCS} hybrid level 3 principles using a formal B model](/posts-output/2019-12-18-STTT-hl3-case-study) - Dominik Hansen, Michael Leuschel, Philipp Körner, Sebastian Krings, Thomas Naulin, Nader Nayeri, David Schneider, Frank Skowron 
+- [The History and Evolution of B and Event-B](/posts-output/2019-07-02-HFM-history-b) - Philipp Körner, Sebastian Krings, Michael Butler, Thierry Lecomte, Michael Leuschel, Luis-Fernando Mejia, Laurent Voisin
 
 ### 2019
 - [A Multi-Target Code Generator for High-Level B](/posts-output/2019-10-01-iFM19-b2program) - Fabian Vu, Dominik Hansen, Philipp Körner, Michael Leuschel
