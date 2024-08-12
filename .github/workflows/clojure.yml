@@ -19,7 +19,7 @@ jobs:
     - uses: actions/checkout@v4
     - name: Install dependencies
       run: lein deps
-    - name: Run tests
+    - name: Generate HTML pages
       run: lein run
     - name: Pack files
       run: tar -cvf github-pages -C public/ .
