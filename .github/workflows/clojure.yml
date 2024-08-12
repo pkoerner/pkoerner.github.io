@@ -17,3 +17,7 @@ jobs:
       run: lein deps
     - name: Run tests
       run: lein run
+    - name: Pack files
+      run: tar -cvf github-pages -C public/ .
+    - uses: actions/upload-artifact@v4
+    - uses: actions/deploy-pages@v4
