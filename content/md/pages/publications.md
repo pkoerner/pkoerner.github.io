@@ -1,5 +1,6 @@
 {:title "My Publications"
  :layout :page
+ :navbar? true
  :page-index 1}
 
 ### 2024
@@ -52,6 +53,3 @@
 
 ### 2015
 - [Evaluating Interpreter Design in Prolog](/posts-output/2015-09-02-KPS15-interpreters-prolog) - David Schneider, Michael Leuschel, Philipp Körner.
-
-### Template
-- [](/posts-output/) -
