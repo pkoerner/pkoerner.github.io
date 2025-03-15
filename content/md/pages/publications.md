@@ -3,6 +3,9 @@
  :navbar? true
  :page-index 1}
 
+### 2025
+- [A case for data-oriented specifications: simpler implementation of B tools and DSLs](/posts-output/2025-03-15-STTT-lisb-journal) - Philipp Körner, Florian Mager, Jan Roßbach
+
 ### 2024
 - [Runtime Evaluation of Prolog Data Structures](/posts-output/2024-08-02-WLP24-prolog-datastructures) - Philipp Körner, Christoph Ludolf, Michael Leuschel
 - [Bi-Directional DSL Transformation Using miniKanren](/posts-output/2024-08-02-WLP24-lisb-miniKanren) - Philipp Körner
