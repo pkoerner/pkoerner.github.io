@@ -10,7 +10,7 @@
 - [Runtime Evaluation of Prolog Data Structures](/posts-output/2024-08-02-WLP24-prolog-datastructures) - Philipp Körner, Christoph Ludolf, Michael Leuschel
 - [Bi-Directional DSL Transformation Using miniKanren](/posts-output/2024-08-02-WLP24-lisb-miniKanren) - Philipp Körner
 - [A verified low-level implementation and visualization of the adaptive exterior light and speed control system](/posts-output/2024-05-13-STTT-els-scs-case-study) - Sebastian Krings, Philipp Körner, Jannik Dunkelau, Kristin Rutenkolk
-- [Meta-Programming Event-B - Advancing Tool Support and Language Extensions](/posts-output/2024-04-19-ABZ24-lisb-eventb) - Philipp Körner, Florian Mager
+- [Meta-Programming Event-B - Advancing Tool Support and Language Extensions](/posts-output/2024-04-19-ABZ24-lisb-eventb) - Philipp Körner, Julius Armbrüster
 
 ### 2023
 - [On Executing State-Based Specifications and Partial Order Reduction for High-Level Formalisms](/posts-output/2023-01-13-HHU-dissertation) - Philipp Körner
