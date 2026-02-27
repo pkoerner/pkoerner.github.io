@@ -17,9 +17,9 @@ That said, I am aware of how many things I do *not* know in a given language.
 
 For example, there might be widespread libraries I am not knowledgable in.
 That is - in my opinion - okay, as they are usually quick to pick up.
-But there might also be plenty of details in language semantics
+But there might also be plenty of details in obscure language semantics
 which might be not well understood.
-This is something I account for.
+I am always amazed how knowledgeable you can get in niches I did not ever consider.
 
 Anyway, I know the concepts of object-oriented, functional and logical programming,
 I have dealt with a fair share of C and Assembly code.
@@ -42,8 +42,8 @@ and many more things I do not remember exactly.
 Pretty advanced.
 Meaning: I have maintained significant code bases in C.
 Spent plenty of time with gdb and valgrind.
-I still prefer to check the man pages rather once more than less
-to unsure what I do is actually defined behaviour.
+I still prefer to check the man pages once more
+to ensure that what I do is actually defined behaviour.
 
 In the network security course, I abused buffer overflows,
 format string attacks, etc. in order to inject and execute assembly code.
