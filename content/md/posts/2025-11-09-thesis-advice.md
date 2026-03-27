@@ -3,6 +3,10 @@
  :toc true
  :tags  ["thesis" "experience report"]}
 
+Update 27.03.2026: Since I wrote the post, dgelessus provided some feedback I think is useful.
+After many months, I actually incorporate it.
+I will paraphrase the comments, clearly mark them, maybe add briefly to that.
+
 During my time at the HHU,
 I have published around 30 peer-reviewed articles,
 advised around 25 bachelor's and master's thesis
@@ -29,7 +33,7 @@ There is no "ah, I got it". You will need to remind yourself of most of the stuf
 
 
 
-# Disclaimer and Caveats
+# Disclaimer and caveats
 
 This is the section you should definitely read first and reconsider for all uncertainties.
 
@@ -67,7 +71,7 @@ In case you write in German, please do not overdo it. I have read the word "Stre
 I had to look up that they meant a hash map. It was weird.
 
 Writing in English might be an advantage. 
-I helps to formulate your text more precisely and technically if your vocabulary is limited.
+It helps to formulate your text more precisely and technically if your vocabulary is limited.
 It happens more often that you add useless asides, fancy adjectives and filler words if you know them.
 But you do not need them.
 
@@ -83,7 +87,7 @@ It depends!
 Ultimately, this is a stylistic decision. I cannot make this for you.
 In my opinion, nobody cares. But that's, like, my opinion, man.
 
-Find out whether your advisor cares. If they do not, pick anyone and simply be consistent.
+Find out whether your advisor cares. If they do not, pick any one and simply be consistent.
 
 ### Should I put a related work section early on (e.g., section 2) or later (e.g., the second to last section)?
 
@@ -94,12 +98,15 @@ Put them later if it is just something similar you encountered.
 
 I have seen great articles that even contain two related work sections, one early on and one later.
 
+[dgelessus: You seem to want to say: Put it where it makes sense.]
+Basically, this is correct, but hard to describe *where* it makes sense.
+
 
 ## Freedom
 
 A thesis is a form of an exam. Note: it is the *freest* form of the exam.
-Opposed to a written exam, there is no rigid checklist what the expected answer must contain.
-Opposed to an oran exam, there is no way to ask for clarification while reading the text.
+Unlike a written exam, there is no rigid checklist what the expected answer must contain.
+Unlike an oral exam, there is no way to ask for clarification while reading the text.
 
 This is a blessing and a curse:
 You are allowed to go your own way, *where appropriate*.
@@ -116,7 +123,7 @@ Stick to the roads well travelled, and you might end up in a good place.
 Or, as Dan John quotes Coach Maughan: "Be reasonable: Do it my way."
 
 
-# Do: Keep Meticulous Notes
+# Do: Keep meticulous notes
 
 One weird tip I got was to write the article before doing the actual research.
 I never really did this myself, yet I see the value of it.
@@ -135,6 +142,16 @@ Most of us cannot turn a great thought bubble into a 15 to 80 pages text on dema
 in a few days before the deadline.
 So don't try. Write early what you can.
 
+[dgelessus: I found it to be helpful to add notes directly to the LaTeX project in which I write the thesis later on.
+This also helps with "I'm sitting in front of an empty page and do not know where to start."
+You can also add notes as LaTeX comments so you do not have to worry about syntax and have a clear division between notes and proper text.]
+Good call. Still I want to emphasize that it is more important *that* you note down stuff than *where* you write it down.
+
+[dgelessus: Related: As soon as possible, create a git repository and actually commit and push regularly. Even the notes.]
+If you do not see the why, please re-consider your career as a computer scientist.
+
+
+
 ## Benefits
 
 The benefits of early writing are so obvious I almost did not put them in.
@@ -144,7 +161,7 @@ But please, consider this very strongly.
 May it be family, relationships, vacation, getting ill, having a day where you do not want to see anything of it at all, etc.
 If you have your notes with you, you can look at where you were, get the full picture quickly and are back in no time.
 Without notes, uhm, what did I do? What was I going to do? How does this work exactly?
-- *Words produces more words.* When you have written down something, even it is just shorthand notes that do not form real sentences,
+- *Words produce more words.* When you have written down something, even it is just shorthand notes that do not form real sentences,
 it is way easier to turn this into a text. It is easier to add something to that which might be missing.
 It is easier to note that you have to explain something foundational beforehand.
 It is easier to keep track of things that you cannot properly name and need more research.
@@ -215,7 +232,7 @@ Again, quoting Dan John quoting Coach Maughan: "Make yourself a slave to good ha
 This is the most important thing here, and you have to exhibit the best discipline to succeed on this.
 
 Keep notes and links to *everything* you see related to your thesis,
-may it be papers you read, web sites, blogposts or videos.
+such as papers you read, web sites, blogposts or videos.
 Download it and put it somewhere safe; sometimes information "disappears" or you just do not find it later.
 Annotate the references with stuff you found interesting, topics they discuss,
 sentences that stuck out to you, conclusions that might end up important.
@@ -226,6 +243,8 @@ This will also help filling up your background and related work sections.
 Your document is almost empty two weeks into your thesis?
 Do your darn research already!
 
+[dgelessus: If your source already offers a BibTeX fragment, copy it directly into your .bib file.
+If you take notes in your .tex, directly add a citation.]
 
 # Structuring your thesis
 
@@ -250,7 +269,7 @@ Where did you put that piece of crucial information? Where I needed it when read
 
 I mostly read a thesis from start to finish. Don't make me jump from section to section and back again.
 But if you absolutely have to do so, at least tell me that you are going to discuss it later on.
-See the example just in the paragraph above --- you will be able to locate it just reading the section headings.
+In the paragraph above, I just did that: "The first mistake is having too much information; we will return to this later on."
 Best, put a reference in your LaTeX.
 
 
@@ -260,7 +279,7 @@ So you wrote down your stuff. That's great. Now we enter the editing phase.
 
 Make use of everything you can to structure your text.
 You can add additional sections, you have subsections at your disposal,
-you have subsubsections, you can use paragraphs, in doubt you can add your own formatting.
+you have subsubsections, you can use paragraphs, when in doubt, you can add your own formatting.
 You can use itemizations or enumerations where appropriate.
 Break paragraphs with double newlines to separate different thoughts from each other.
 Just do this.
@@ -274,7 +293,7 @@ Do you have a section heading directly in front of a subsection heading?
 A subsection heading in front of a collection of paragraph?
 That is a bad sign.
 Explain what is going to happen in this section, in correct order.
-Put these two sentence between the headings.
+Put these two sentences between the headings.
 Check again: Does this make sense to you? Is clarification needed?
 
 There are many variations of a famous quote of which the source seems to be unknown.
@@ -396,6 +415,10 @@ Then, add details. Only afterwards include all the dirty stuff, if necessary at 
 
 What should your background section consist of? This is very much an _it depends_ answer.
 There are, however, things to look out for.
+Below, I assume that you are writing a thesis at the STUPS group at HHU.
+We work a lot with B and Prolog, and I taught Clojure there.
+Of course, other research groups have other "obvious" things,
+and things we deem "obvious" might be new and worth of explanation for other groups.
 
 As an example: If I want to introduce the B method in the background section,
 I should, for example, talk about the purpose of the method and what a B machine specification file looks like.
@@ -433,7 +456,7 @@ Some students are scared they may not have enough content to come even close to 
 This, again, is induced by starting to write way too late.
 If you keep plenty of notes, you have a good overview of points to elaborate.
 If you formulate them into text early on, you will have a good feeling of your progress.
-Indeed, opposed to their initial fears, many students end up having to shorten their texts.
+Indeed, contrary to their initial fears, many students end up having to shorten their texts.
 
 When you do not have any idea what your contents might be (because you sit before an empty page),
 you tend to be overly wordy.
@@ -480,7 +503,7 @@ Re-group your information, move it around,
 and try to keep the chunks manageable.
 
 
-# Do: Reference Figures, Code Listings, Line Numbers
+# Do: Reference figures, code listings, line numbers
 
 Pay attention to all information that you add for understanding.
 One too common mistake is to add figures - and then not to reference them.
@@ -546,7 +569,7 @@ That's fine. But rules change if you quote directly from a source, especially if
 Make sure that you mark the start of such a quote, and the end of it.
 
 Consider the following:
-"Some authors are the opinion [Citation] that verbal translation. Another sentence of verbal translation. Now my opinion follows."
+"Some authors are of the opinion [Citation] that verbal translation. Another sentence of verbal translation. Now my opinion follows."
 
 You cannot see where the content backed by your source ends, and where your opinion starts.
 _Never_ do that. Always ensure that your content is clearly separated from your sources.
@@ -561,18 +584,30 @@ For Clojure, there is *the* publication.
 To me, it is absolutely clear what *the* publications are for these and many other things.
 It should be for many things you are considering. Just read the darn thing, or at least the abstract, introduction and conclusion.
 
+[dgelessus: In some cases, unfortunately, it is not absolutely clear what the proper citation is.]
+In my experience, such cases exist. But such instances are rare.
+If you cannot positively identify *the* publication, ask your advisor for assistance;
+or add your doubts to the text around the citation.
+
+[dgelessus: Tool authors often offer one (or sometimes more) citations on their webpage that is preferred.
+If they do, you should absolutely use that.]
+
 And no, it is *not* okay to cite any paper that does something *with* ProB as a witness
 for all the stuff ProB does; likewise, for the other tools.
 I would be appalled if you cited my integration of B in Clojure when you introduce Clojure to someone.
 And yet, I sometimes get notification my articles were cited by some _idiot_ that clearly did not understand anything related to the contents.
 This immediately screams "low-effort pay-to-publish spam publication" to me.
 
+[dgelessus: If you cite a statement from a publication, be careful whether this statement is a citation itself!
+If it is, find the original source and verify that the original publication actually contains such a statement.
+Otherwise, misinterpretations and wrong citations will propagate.]
+
 If you find something that contains a good explanation that you like, cite it *additionally*. That's fine.
 But don't make it your only source. Spend some effort to locate *the* publication.
 Likely, it is already cited in that paper you found.
 
 
-# Finalizing your Thesis
+# Finalizing your thesis
 
 So, we are getting near the end.
 All the hard work is done, you finished your implementation (i.e., everything now is future work aka "not gonna do that"),
@@ -584,7 +619,7 @@ and pretty good is often good enough.
 Yet, do the following cleanup steps at the very end.
 Do not change *anything* else later on as you will suffer.
 
-## Consider: Spell Checking and Grammar Tools
+## Consider: Spell checking and grammar tools
 
 It's so simple. Run a spell checker. I like using aspell with in-place editing.
 I also like using the spellchecker integration in vim.
@@ -632,6 +667,13 @@ This (a) forces you to be consistent with your terms and (b) gives you the flexi
 at once at the last minute.
 Just make sure to terminate the command usages or set everything up properly - otherwise whitespaces might go missing sometimes
 which is just the worst.
+
+[dgelessus: My preferred solution for custom commands is to always call them explicitly with empty arguments,
+i.e., `\bla{}` over `\bla`. This usually works.]
+I vaguely remember that a package exists that forces termination somehow.
+I do not know whether it actually does that, how it is named and whether it actually does this
+or whether it accidentially worked for my problems.
+Thus, I do not want to propose this as a solution.
 
 
 ### Widows and orphans
