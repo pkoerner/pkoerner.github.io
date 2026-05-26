@@ -26,7 +26,7 @@ jobs:
     - name: move pdfs
       run: mv pdfs/ public/
     - name: Pack files
-      run: tar -cvf github-pages -C public/
+      run: tar -cvf github-pages -C public/ .
     - uses: actions/upload-artifact@v4
       with:
         name: github-pages
