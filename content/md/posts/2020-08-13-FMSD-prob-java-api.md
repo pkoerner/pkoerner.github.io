@@ -24,7 +24,7 @@ FMSD
 
 ### Available at:
 
-- [Springer (DOI)](https://doi.org/10.1007/s10703-020-00351-3)
+- [Springer (DOI)](https://doi.org/10.1007/s10703-020-00351-3) (open access)
 
 ### About
 

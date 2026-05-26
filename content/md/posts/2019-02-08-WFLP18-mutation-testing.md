@@ -25,6 +25,7 @@ WFLP 2018
 ### Available at:
 
 - [Springer (DOI)](https://doi.org/10.1007/978-3-030-16202-3_3)
+- [pre-print](/pdfs/wflp18-prolog-mutation-testing.pdf)
 
 ### About
 

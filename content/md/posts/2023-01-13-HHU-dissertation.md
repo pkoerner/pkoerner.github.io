@@ -24,6 +24,7 @@ Dissertation at HHU Düsseldorf
 ### Available at:
 
 - [DocServ HHU](https://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=61784)
+- [full text](hhu23-koerner-dissertation.pdf)
 
 ### About
 

@@ -13,7 +13,7 @@
 - [Meta-Programming Event-B - Advancing Tool Support and Language Extensions](/posts-output/2024-04-19-ABZ24-lisb-eventb) - Philipp Körner, Julius Armbrüster - [pre-print](/pdfs/abz24-lisb-eventb.pdf)
 
 ### 2023
-- [On Executing State-Based Specifications and Partial Order Reduction for High-Level Formalisms](/posts-output/2023-01-13-HHU-dissertation) - Philipp Körner [full text](hhu23-koerner-dissertation.pdf)
+- [On Executing State-Based Specifications and Partial Order Reduction for High-Level Formalisms](/posts-output/2023-01-13-HHU-dissertation) - Philipp Körner - [full text](hhu23-koerner-dissertation.pdf)
 
 ### 2022
 

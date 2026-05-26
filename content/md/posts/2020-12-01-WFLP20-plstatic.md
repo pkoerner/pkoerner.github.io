@@ -27,6 +27,7 @@ WFLP 2020
 ### Available at:
 
 - [Springer (DOI)](https://doi.org/10.1007/978-3-030-75333-7_5)
+- [pre-print](/pdfs/wflp20-plspec-static.pdf)
 
 ### About
 

@@ -27,6 +27,7 @@ SEUH 2019
 ### Available at:
 
 - [CEUR-WS](https://ceur-ws.org/Vol-2358/paper-08.pdf)
+- [full text](/pdfs/seuh19-mc-course.pdf)
 
 ### About
 

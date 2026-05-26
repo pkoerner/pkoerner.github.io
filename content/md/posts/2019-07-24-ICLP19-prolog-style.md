@@ -24,6 +24,7 @@ ICLP 2019
 ### Available at:
 
 - [arXiv (DOI)](https://doi.org/10.4204/EPTCS.306.8)
+- [full text](/pdfs/iclp19-prolog-linter.pdf)
 
 ### About
 

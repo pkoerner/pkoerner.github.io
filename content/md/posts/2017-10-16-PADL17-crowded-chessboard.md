@@ -25,6 +25,7 @@ PADL 2018
 ### Available at:
 
 - [Springer (DOI)](https://doi.org/10.1007/978-3-319-73305-0_5)
+- [pre-print](/pdfs/padl18-crowded-chessboard.pdf)
 
 ### About
 

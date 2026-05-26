@@ -26,6 +26,7 @@ ABZ 2020
 ### Available at:
 
 - [Springer (DOI)](https://doi.org/10.1007/978-3-030-48077-6_30)
+- [pre-print](/pdfs/abz20-automotive-c.pdf)
 
 ### About
 

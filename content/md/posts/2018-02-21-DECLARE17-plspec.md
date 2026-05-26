@@ -26,6 +26,7 @@ DECLARE 2017 (WFLP 2017)
 ### Available at:
 
 - [Springer (DOI)](https://doi.org/10.1007/978-3-030-00801-7_13)
+- [pre-print](/pdfs/wflp17-plspec.pdf)
 
 ### About
 

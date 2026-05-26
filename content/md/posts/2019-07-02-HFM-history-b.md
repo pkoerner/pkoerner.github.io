@@ -26,6 +26,7 @@ HFM 2019
 ### Available at:
 
 - [Springer (DOI)](https://doi.org/10.1007/978-3-030-54997-8)
+- [pre-print](/pdfs/hfm19-history-b.pdf)
 
 ### About
 

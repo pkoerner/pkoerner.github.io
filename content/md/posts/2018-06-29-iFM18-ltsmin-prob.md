@@ -26,6 +26,7 @@ iFM 2018
 ### Available at:
 
 - [Springer (DOI)](https://doi.org/10.1007/978-3-319-98938-9_16)
+- [pre-print](/pdfs/ifm18-prob-ltsmin.pdf)
 
 ### About
 

@@ -26,6 +26,7 @@ iFM 2016
 ### Available at:
 
 - [Springer (DOI)](https://doi.org/10.1007/978-3-319-33693-0_18)
+- [pre-print](/pdfs/ifm16-prob-ltsmin.pdf)
 
 ### About
 

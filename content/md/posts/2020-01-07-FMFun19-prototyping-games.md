@@ -25,6 +25,7 @@ FMFun 2019
 ### Available at:
 
 - [Springer (DOI)](https://doi.org/10.1007/978-3-030-71374-4_6)
+- [pre-print](/pdfs/fmfun19-prototyping-games.pdf)
 
 ### About
 

@@ -22,6 +22,7 @@ WLP 2022
 ### Available at:
 
 - [DFKI](https://wlp2022.dfki.de/data/papers/005.pdf)
+- [full text](/pdfs/wlp22-jupyter-prolog.pdf)
 
 ### About
 

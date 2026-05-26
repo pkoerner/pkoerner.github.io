@@ -26,6 +26,7 @@ FM 2019
 ### Available at:
 
 - [Springer (DOI)](https://doi.org/10.1007/978-3-030-30942-8_31)
+- [pre-print](/pdfs/fm19-exec-specs.pdf)
 
 ### About
 

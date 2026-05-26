@@ -26,6 +26,7 @@ ABZ 2024
 ### Available at:
 
 - [Springer (DOI)](https://doi.org/10.1007/978-3-031-63790-2_17)
+- [pre-print](/pdfs/abz24-lisb-eventb.pdf)
 
 ### About
 

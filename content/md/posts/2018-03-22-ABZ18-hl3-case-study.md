@@ -27,6 +27,7 @@ ABZ 2018
 ### Available at:
 
 - [Springer (DOI)](https://doi.org/10.1007/978-3-319-91271-4_20)
+- [pre-print](/pdfs/abz18-etcsHL3.pdf)
 
 ### About
 

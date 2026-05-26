@@ -27,7 +27,7 @@ WFLP 2020
 
 - [arXiv](https://arxiv.org/abs/2008.12543)
 - [Springer (DOI)](https://doi.org/10.1007/978-3-030-75333-7_3)
-
+- [pre-print](/pdfs/wflp20-prolog-interpreters.pdf)
 
 ### About
 

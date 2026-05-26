@@ -22,6 +22,7 @@ WLP 2024
 ### Available at:
 
 - [University of Würzburg](https://www.informatik.uni-wuerzburg.de/fileadmin/10030600/2024/KI_2004_paper_121.pdf)
+- [full text](/pdfs/wflp24-lisb-minikanren.pdf)
 
 ### About
 

@@ -24,7 +24,7 @@ TPLP (Special Issue on 20th Anniversary of TPLP)
 
 ### Available at:
 
-- [Cambridge University Press (DOI)](https://doi.org/10.1017/S1471068422000102)
+- [Cambridge University Press (DOI)](https://doi.org/10.1017/S1471068422000102) (open access)
 - [arXiv](https://arxiv.org/abs/2201.10816)
 
 ### About

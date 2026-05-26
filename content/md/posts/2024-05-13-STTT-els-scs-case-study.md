@@ -23,7 +23,7 @@ STTT
 
 ### Available at:
 
-- [Springer (DOI)](https://doi.org/10.1007/s10009-024-00750-5)
+- [Springer (DOI)](https://doi.org/10.1007/s10009-024-00750-5) (open access)
 
 ### About
 

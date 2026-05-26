@@ -24,7 +24,7 @@ MoDeVVa 2022
 
 ### Available at:
 
-- [ACM (DOI)](https://doi.org/10.1145/3550356.3561561)
+- [ACM (DOI)](https://doi.org/10.1145/3550356.3561561) (open access)
 
 ### About
 
