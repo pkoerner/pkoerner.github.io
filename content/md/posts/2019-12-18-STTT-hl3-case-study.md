@@ -1,4 +1,4 @@
-{:title "Validation and real-life demonstration of {ETCS} hybrid level 3 principles using a formal B model"
+{:title "Validation and real-life demonstration of ETCS hybrid level 3 principles using a formal B model"
  :layout :post
  :tags  ["publications" "modelling" "ProB" "case study"]}
 
